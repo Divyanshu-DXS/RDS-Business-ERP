@@ -21,32 +21,16 @@ The primary objectives of RDS ERP are:
 The project is currently in the planning and design phase.</br>
 Implementation and development phases will follow as the design continues to evolve.
 
-## Planned Modules : 
+## Planned Modules 
 1. User Management
 2. Product & Inventory Management
 3. Category Management
 4. Supplier Management
 5. Customer Management
 6. Sales & Invoicing
-7Barcode Integration
-Inventory Alerts & Reordering
-Reporting & Analytics
-Repository Structure
-RDS-ERP
-│
-├── README.md
-├── docs/
-│   ├── Requirements
-│   ├── Business Rules
-│   ├── Domain Models
-│   ├── Workflow Diagrams
-│   └── Design Documents
-│
-├── backend/
-│
-├── frontend/
-│
-└── database/
-Vision
+7. Barcode Integration
+8. Inventory Alerts & Reordering
+9. Reporting & Analytics
 
+## Vision
 The long-term vision of RDS ERP is to evolve into a practical and scalable business management solution tailored for small and medium-sized retail businesses, beginning with the stationery and printing industry.
